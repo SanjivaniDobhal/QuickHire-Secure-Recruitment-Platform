@@ -12,5 +12,4 @@ python-dotenv
 flask-socketio
 python-socketio
 python-engineio
-eventlet
 gunicorn
